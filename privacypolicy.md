@@ -1,6 +1,6 @@
 # Privacy Policy (ENGLISH)
 
-EcoClick (“Remy Saksik”, "remyut","I", "The app", "The compagny", "The association") operates the https://github.com/remyut/ecoclick public repository, and iOS and Android Apps (collectively the "Service").
+EcoClick (“l'EmpreinteVerte” ,"I", "The app", "The compagny", "The association") operates the https://github.com/remyut/ecoclick public repository, and iOS and Android Apps (collectively the "Service").
 
 This privacy policy has been compiled to better serve those who are concerned with how their privacy.
 
@@ -28,7 +28,7 @@ This app do not require payement. It is a free app without ads.
 
 # Politique de confidentialité (FRANCAIS)
 
-EcoClick ("Remy Saksik", "remyut", "je", "l'application", "la société", "l'association") exploite le dépôt public https://github.com/remyut/ecoclick ainsi que les applications iOS et Android (collectivement le "Service").
+EcoClick ("l'EmpreinteVerte", "je", "l'application", "la société", "l'association") exploite le dépôt public https://github.com/remyut/ecoclick ainsi que les applications iOS et Android (collectivement le "Service").
 
 Cette politique de confidentialité a été rédigée pour mieux servir ceux qui se préoccupent de la manière dont leur vie privée est gérée.
 
