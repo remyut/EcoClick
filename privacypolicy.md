@@ -1,54 +1,76 @@
+
 # Privacy Policy (ENGLISH)
 
-EcoClick (“l'EmpreinteVerte” ,"I", "The app", "The compagny", "The association") operates the https://github.com/remyut/ecoclick public repository, and iOS and Android Apps (collectively the "Service").
+EcoClick (“l'EmpreinteVerte,” "I," "The App," "The Company," "The Association") operates the public repository on [GitHub](https://github.com/remyut/ecoclick), as well as the iOS and Android applications (collectively referred to as the "Service").
 
-This privacy policy has been compiled to better serve those who are concerned with how their privacy.
+This privacy policy is designed to explain how EcoClick handles your personal information and data.
 
-The EcoClick App do no collect any personal information.
+## Personal Information
 
-Misusage of any kind of the App will not be the responsability of the members of the EcoCLick app nor association nor compagny.
+EcoClick does not collect or track personal information linked to users. Any misuse of the app is the sole responsibility of the user, and EcoClick (including its members, association, or company) will not be held liable for any incidents, whether foreseeable or unforeseen, resulting from misuse of the app.
 
-The users shall be responsible for all kind of events (seen or unforseen) cause by the misuage of the app.
+## GPS Coordinates
 
-GPS coordinates:
-- Cannot identify a person.
-- Are used to fullfill the primary function of the app to collect the items.
-- Are not resell to a third party.
+- GPS data cannot identify a person directly.
+- GPS coordinates are used solely to fulfill the core functionality of the app: collecting data on environmental items (such as reports of illegal dumping).
+- GPS coordinates are not sold to third parties.
 
-The pictures taken:
-- Are the sole responsability of the users.
-- We shall not be responsible for any kind of abuses. 
+## Photos
 
-The GPS coordinates and pictures are stored within Google services.  For more information refers to the Google privacy policy (English): https://policies.google.com/privacy?hl=en
+- Photos taken via the app are the sole responsibility of the users.
+- EcoClick is not responsible for any misuse of photos.
+- Photos and GPS data are stored using Google services. For more information, refer to [Google's privacy policy](https://policies.google.com/privacy?hl=en).
 
-The App do not required sign-in. None of the sensitive data are collected whatsoever.
+## Guest Usage
 
-This app do not require payement. It is a free app without ads.
+You may use the app as a guest. If you wish to receive badges or rewards, you must log in with a social network account. 
 
+## Sign-in and Payments
 
-# Politique de confidentialité (FRANCAIS)
+The app does not require sign-in for general use, and there are no payments or ads. It is free to use.
 
-EcoClick ("l'EmpreinteVerte", "je", "l'application", "la société", "l'association") exploite le dépôt public https://github.com/remyut/ecoclick ainsi que les applications iOS et Android (collectivement le "Service").
+## Retention Policy
 
-Cette politique de confidentialité a été rédigée pour mieux servir ceux qui se préoccupent de la manière dont leur vie privée est gérée.
+Data related to submissions may be retained for up to 30 days to fulfill the core service of the app, particularly in cases where submissions are pending or approved.
 
-L'application EcoClick ne collecte aucune information personnelle.
+## Right to Terminate
 
-L'utilisation abusive de l'application de quelque nature que ce soit ne sera pas de la responsabilité des membres de l'application EcoClick ni de l'association ni de la société.
+Users have full control over their account and data. In the 'About' section, users will be able to terminate their account. Once the account is terminated, data will be deleted unless a submission is in progress or approved, in which case data may be retained for up to 30 days.
 
-Les utilisateurs seront responsables de tous les types d'événements (prévus ou imprévus) causés par l'utilisation abusive de l'application.
+# Politique de Confidentialité (FRANÇAIS)
 
-Coordonnées GPS :
-- Ne peuvent pas identifier une personne.
-- Sont utilisées pour remplir la fonction principale de l'application de collecte des articles.
-- Ne sont pas revendues à un tiers.
+EcoClick (“l'EmpreinteVerte,” "Moi," "L'Application," "La Compagnie," "L'Association") exploite le dépôt public sur [GitHub](https://github.com/remyut/ecoclick), ainsi que les applications iOS et Android (collectivement appelées le "Service").
 
-Les photos prises :
-- Sont l'entière responsabilité des utilisateurs.
-- Nous ne serons pas responsables de toute forme d'abus.
+Cette politique de confidentialité est conçue pour expliquer comment EcoClick gère vos informations personnelles et vos données.
 
-Les coordonnées GPS et les photos sont stockées dans les services de Google. Pour plus d'informations, consultez la politique de confidentialité de Google (anglais) :https://policies.google.com/privacy?hl=fr
+## Informations Personnelles
 
-L'application ne nécessite pas de connexion. Aucune donnée sensible n'est collectée.
+EcoClick ne collecte ni ne suit les informations personnelles liées aux utilisateurs. Toute mauvaise utilisation de l'application est de la seule responsabilité de l'utilisateur, et EcoClick (y compris ses membres, son association ou sa compagnie) ne pourra être tenu responsable de tout incident, qu'il soit prévisible ou imprévisible, résultant d'une mauvaise utilisation de l'application.
 
-Cette application ne nécessite aucun paiement. C'est une application gratuite sans publicité.
+## Coordonnées GPS
+
+- Les données GPS ne peuvent pas identifier directement une personne.
+- Les coordonnées GPS sont utilisées uniquement pour accomplir la fonctionnalité principale de l'application : collecter des données sur des éléments environnementaux (comme les signalements de dépôts illégaux).
+- Les coordonnées GPS ne sont pas vendues à des tiers.
+
+## Photos
+
+- Les photos prises via l'application sont de la seule responsabilité des utilisateurs.
+- EcoClick n'est pas responsable de l'utilisation abusive des photos.
+- Les photos et les données GPS sont stockées via les services de Google. Pour plus d'informations, veuillez consulter [la politique de confidentialité de Google](https://policies.google.com/privacy?hl=fr).
+
+## Utilisation en tant qu'invité
+
+Vous pouvez utiliser l'application en tant qu'invité. Si vous souhaitez recevoir des badges ou des récompenses, vous devez vous connecter avec un compte de réseau social.
+
+## Connexion et Paiements
+
+L'application ne nécessite pas de connexion pour une utilisation générale, et il n'y a ni paiements ni publicités. Elle est gratuite à utiliser.
+
+## Politique de Rétention
+
+Les données relatives aux soumissions peuvent être conservées jusqu'à 30 jours pour remplir le service principal de l'application, notamment dans les cas où des soumissions sont en attente ou approuvées.
+
+## Droit de Résiliation
+
+Les utilisateurs ont un contrôle total sur leur compte et leurs données. Dans la section 'À propos', les utilisateurs pourront résilier leur compte. Une fois le compte résilié, les données seront supprimées, sauf en cas de soumission en cours ou approuvée, auquel cas les données peuvent être conservées jusqu'à 30 jours.
